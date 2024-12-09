@@ -1,2 +1,2 @@
-# - [https://raw.githubusercontent.com/helena2603/-/refs/heads/main/clean_regional_data.csv](http://go.microsoft.com/fwlink/p/?LinkId=255141)
+# - https://1drv.ms/x/c/94f2f16c1ba73562/Ed24algGCUdMrOl7mO7Vly4B3OH99FcfMwQ-Ek0OsCg_dw
 энергия солнечного света 
